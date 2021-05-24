@@ -1,5 +1,13 @@
 # @backstage/catalog-client
 
+## 0.3.12
+
+### Patch Changes
+
+- add62a455: Foundation for standard entity status values
+- Updated dependencies [add62a455]
+  - @backstage/catalog-model@0.7.11
+
 ## 0.3.11
 
 ### Patch Changes

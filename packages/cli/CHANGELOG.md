@@ -1,5 +1,11 @@
 # @backstage/cli
 
+## 0.6.13
+
+### Patch Changes
+
+- 1cd0cacd9: Add support for transforming yaml files in jest with 'yaml-jest'
+
 ## 0.6.12
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @backstage/catalog-model
 
+## 0.7.11
+
+### Patch Changes
+
+- add62a455: Foundation for standard entity status values
+
 ## 0.7.10
 
 ### Patch Changes
